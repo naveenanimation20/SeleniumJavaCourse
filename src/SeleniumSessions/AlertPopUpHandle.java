@@ -25,7 +25,7 @@ public class AlertPopUpHandle {
 		
 		String text = alert.getText();
 		
-		if(text.equals("Please enter a valid user name")){
+		if(text.equalsIgnoreCase("Please enter a valid user name")){
 			System.out.println("correct alert messg");
 		}
 		else{
