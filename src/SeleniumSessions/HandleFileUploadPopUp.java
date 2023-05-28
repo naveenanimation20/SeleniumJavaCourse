@@ -1,4 +1,4 @@
-package org.sel;
+package SeleniumSessions;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
